@@ -1,0 +1,13 @@
+TicketId,Matricula,Categoria,Prioridade,DataAbertura,DataResolucao,Status
+TK0001,BR0001,Acesso a Sistema,Alta,2026-01-10,2026-01-12,Resolvido
+TK0002,BR0003,Equipamento,Media,2026-02-03,,Aberto
+TK0003,BR0002,Folha,Alta,2026-01-28,2026-01-30,Resolvido
+TK0004,PT0001,Beneficios,Baixa,2026-02-15,,Aberto
+TK0005,MX0001,Ferias,Media,2025-12-05,2025-12-06,Resolvido
+TK0006,MX0002,Acesso a Sistema,Alta,2026-03-01,,Aberto
+TK0007,DE0001,Equipamento,Media,2026-01-18,2026-01-25,Resolvido
+TK0008,DE0002,Folha,Alta,2026-02-20,,Aberto
+TK0009,US0001,Outros,Baixa,2026-01-09,2026-01-15,Resolvido
+TK0010,BR0004,Reembolso,Media,2026-02-11,,Aberto
+TK0011,PT0002,Beneficios,Baixa,2026-03-02,2026-03-04,Resolvido
+TK0012,CL0001,Ferias,Alta,2026-01-22,,Aberto

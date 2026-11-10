@@ -1,0 +1,13 @@
+Matricula,Nome,CPF,Cargo,Departamento,Pais,DataAdmissao,Salario,Status
+BR0001,José Almeida,123.456.789-01,Analista de RH,Recursos Humanos,Brasil,2019-03-12,8500.00,Ativo
+BR0002,Mariana Souza,234.567.890-12,Gerente de Folha,Folha de Pagamento,Brasil,2017-08-01,15200.00,Ativo
+BR0003,Carlos Müller,345.678.901-23,Desenvolvedor Senior,Tecnologia,Brasil,2020-01-20,12800.00,Ativo
+BR0004,Fernanda Lopes,456.789.012-34,Analista Financeiro,Financeiro,Brasil,2021-06-15,7300.00,Ativo
+PT0001,Ana Ferreira,PT-501234567,Coordenadora de RH,Recursos Humanos,Portugal,2018-11-05,6200.00,Ativo
+PT0002,João Tavares,PT-602345678,Especialista Fiscal,Financeiro,Portugal,2016-02-29,7100.00,Ativo
+MX0001,Sofía Hernández,MX-HER850412,Analista de Beneficios,Recursos Humanos,Mexico,2019-09-23,5400.00,Ativo
+MX0002,Diego Ramírez,MX-RAM900118,Gerente Comercial,Comercial,Mexico,2015-05-10,9800.00,Ativo
+DE0001,Lukas Müller,DE-23456789,Engenheiro de Dados,Tecnologia,Alemanha,2022-04-04,11200.00,Ativo
+DE0002,Hannah Schäfer,DE-34567890,Analista de Folha,Folha de Pagamento,Alemanha,2020-10-12,8900.00,Ativo
+US0001,Emily Johnson,US-987654321,Diretora de RH,Recursos Humanos,Estados Unidos,2014-07-21,21000.00,Ativo
+CL0001,Camila Rojas,CL-16234567,Analista de Reembolsos,Financeiro,Chile,2023-02-13,4800.00,Afastado

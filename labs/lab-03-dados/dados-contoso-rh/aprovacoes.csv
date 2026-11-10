@@ -1,0 +1,13 @@
+AprovacaoId,ReembolsoId,AprovadorMatricula,Nivel,Decisao,DataDecisao,Comentario
+APR001,REE001,BR0002,1,Aprovado,2026-01-17,Dentro da politica
+APR002,REE002,BR0002,1,Aprovado,2026-01-21,OK
+APR003,REE004,US0001,2,Pendente,,Acima da politica - escalado
+APR004,REE005,PT0002,1,Aprovado,2026-01-19,OK
+APR005,REE006,US0001,2,Rejeitado,2026-02-07,Sem nota fiscal
+APR006,REE007,MX0002,1,Aprovado,2026-01-26,OK
+APR007,REE008,US0001,2,Pendente,,Valor alto - em analise
+APR008,REE009,DE0002,1,Aprovado,2026-01-31,Dentro da politica
+APR009,REE011,US0001,1,Aprovado,2026-01-23,Viagem corporativa
+APR010,REE013,MX0002,1,Rejeitado,2026-01-14,Despesa nao elegivel
+APR011,REE003,BR0002,1,Pendente,,Aguardando comprovante
+APR012,REE012,BR0002,1,Pendente,,Em fila
