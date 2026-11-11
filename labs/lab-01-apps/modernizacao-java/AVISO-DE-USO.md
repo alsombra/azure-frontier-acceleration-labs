@@ -1,11 +1,14 @@
-# Uso dos fontes neste laboratorio
+# Uso dos materiais Java neste laboratorio
 
 Material de treinamento disponibilizado publicamente com autorizacao da organizacao.
-Inclui somente fontes, testes, declaracoes Maven e scripts de operacao local.
+Inclui fontes, testes, declaracoes Maven, scripts de operacao local e os
+compilados identificados no [indice de pacotes](pacotes/README.md).
 A disponibilidade publica nao concede, por si so, licenca open source ou direitos adicionais de redistribuicao.
-Nao inclui JARs, dependencias incorporadas, JDK, Maven ou outros binarios.
+Os ZIPs compilados incluem JARs com dependencias incorporadas; o legado
+inclui dependencias Oracle. Nao inclui JDK ou Maven. Os avisos existentes
+nos arquivos sao preservados, sem declarar revisao de terceiros concluida.
 
-As dependencias declaradas nos POMs sao obtidas separadamente pelo Maven.
+No caminho fonte, as dependencias declaradas nos POMs sao obtidas pelo Maven.
 Seus termos continuam aplicaveis a quem as obtiver, usar ou redistribuir.
 Esta entrega nao substitui esses termos nem certifica conformidade de terceiros.
 Nenhum texto de licenca ou titularidade foi criado para estes fontes.
